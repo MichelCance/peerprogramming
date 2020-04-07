@@ -1,3 +1,4 @@
+# #{} crée une concaténation
 puts "On va compter le nombre d'heures de travail à THP"
 #Commentaire1= Affiche la ligne de texte demandée #
 puts "Travail : #{10 * 5 * 11}"
